@@ -1,0 +1,169 @@
+/*----------header----------*/
+
+.logo {
+    max-height: 700px;
+    max-width: 700px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar {
+    border-color: #f88379;
+    background-color: #f88379;
+}
+
+.nav-item  {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "coda", cursive;
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: white
+}
+
+.nav-item a:hover {
+    color: #fa0505;
+    transition: ease-in-out;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+button .navbar-toggler-icon {
+    background-color: white;
+    color: #f88379;
+    padding: 15px;
+    
+}
+
+/*----------footer----------*/
+
+.footer-color {
+    background-color: #f88379;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    font-family: "coda", cursive;
+    
+}
+
+h1 {
+    font-family: "coda", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+
+
+.footer-color a i {
+    text-decoration: none;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 10px;
+   
+
+}
+
+.footer-color a i:hover {
+    color: #fa0505;
+}
+
+/*----------gallery----------*/
+
+.carousel-inner {
+    max-height: 500px;
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+.carousel-item img {
+    max-height: 500px;
+    
+}
+
+/*----------download----------*/
+
+.download-plan a i {
+    color: #f88379;
+    font-size: 150px;
+    text-align: center;
+    padding: 100px;
+    padding-bottom: 30px;
+    padding-top: 60px;
+}
+
+.download-plan a i:hover {
+    color: #fa0505;
+}
+
+.download-text {
+    padding-bottom: 20px;
+    font-family: "coda", sans-serif;
+    text-align: center;
+    color: #f88379;
+}
+
+
+
+/*----------contact----------*/
+
+.form {
+    padding: 20px 40px;
+    color: #f88379;
+    border-color: #f88379;
+    border: solid 2px;
+}
+
+/* button {
+    background-color: #f88379;
+    color: white;
+    margin-bottom: 20px;
+    font-family: "coda", sans-serif;
+    text-transform: uppercase;
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: #fa0505;
+    transition: ease-in-out;
+} */
+
+/*----------index----------*/
+
+.img1 {
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.paragraph {
+    font-family: "coda", sans-serif;
+    color: #f88379;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+
+
+
+
