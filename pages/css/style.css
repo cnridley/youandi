@@ -40,7 +40,8 @@
 button .navbar-toggler-icon {
     background-color: white;
     color: #f88379;
-    padding: 15px;
+    font-size: 30px;
+    max-height: 31px;
     
 }
 
